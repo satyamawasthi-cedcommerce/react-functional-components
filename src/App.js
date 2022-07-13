@@ -4,6 +4,7 @@ import Helloarrow from './components/Helloarrow';
 import Myname from './components/Myname';
 import List1 from './components/List1';
 import List2 from './components/List2';
+import Helloalice from './components/Helloalice';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <hr/>
       <List2/>
       <hr/>
+      <Helloalice/>
 
     </div>
   );
